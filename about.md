@@ -12,4 +12,4 @@ I am currently working on this blog - blue-dot.github.io - for school. If there 
 
 ### Scratch Page
 
-[scratch.mit.edu/users/Red_Dot/](http://scratch.mit.edu/users/Red_Dot/)
+[http://scratch.mit.edu/users/Red_Dot/](http://scratch.mit.edu/users/Red_Dot/)
