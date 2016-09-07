@@ -155,9 +155,11 @@ table {
     border: 1px solid black;
 }
 
-th {
+th, td{
     height: 50px;
     border: 1px solid black;
+    vertical-align: middle;
+    padding: 15px;
 }
 
 .wrapper-masthead {
