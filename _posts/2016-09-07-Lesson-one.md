@@ -26,8 +26,7 @@ published: true
     <td>To have a Github Pages Static Website</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <td>Did I reach my target? </td>
     <td></td>
   </tr>
 </table>
