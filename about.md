@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student on Earth.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently working on this blog - blue-dot.github.io - for school. If there are any slightly less professional parts if this blog, it will hopefully be fixed soon.
 
-### Contact me
+### Scratch Page
 
-[email@domain.com](mailto:email@domain.com)
+[scratch.mit.edu/users/Red_Dot/](scratch.mit.edu/users/Red_Dot/)
