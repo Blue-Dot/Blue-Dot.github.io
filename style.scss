@@ -168,12 +168,12 @@ th, td{
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: #3498db;
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  background-color: #3498db;
 
   @include mobile {
     text-align: center;
