@@ -125,6 +125,7 @@ img {
   color: $black;
   background: $lightGray;
 }
+
 ::selection {
   color: $black;
   background: #cce6ff;
@@ -172,6 +173,7 @@ th, td{
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  background-color: #3498db;
 
   @include mobile {
     text-align: center;
