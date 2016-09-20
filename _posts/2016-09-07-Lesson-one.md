@@ -46,7 +46,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Despite what the previous box, I think that I could have worked more effectively if I had concentrated on my own work. A lot of progress happened at home, so in future, I need to focus on my own work at school. However, I think that helping others is also vital, so getting the balance correct is vita.</td>
+    <td>Despite what the previous box, I think that I could have worked more effectively if I had concentrated on my own work. A lot of progress happened at home, so in future, I need to focus on my own work at school. However, I think that helping others is also vital, so getting the balance correct is vital.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
