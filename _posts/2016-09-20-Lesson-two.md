@@ -40,13 +40,12 @@ published: true
     <td>What did I do? What changes were made?</td>
   </tr>
   <tr>
-    <td>I changed multiple (things mainly to do with styling) which were not pre-programmed into the Jekyll template, including:
-
-Changing the navbar to blue
-Deleting the separating line between navbar and body
-Making a 'sticky' footer
-Writing "Made by someone called Max" on the footer
-Formating that</td>
+    <td>I changed multiple (things mainly to do with styling) which were not pre-programmed into the Jekyll template, including
+changing the navbar to blue, 
+deleting the separating line between navbar and body, 
+making a 'sticky' footer, 
+writing "Made by someone called Max" on the footer and 
+formating that</td>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
