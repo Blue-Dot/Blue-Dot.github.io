@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 400 17px/1.6 'Average', Garamond, Georgia, serif;
+  background: $white;
+  font: 18px/1.7 'Average', Garamond, Georgia, serif;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   /**font-family: $helveticaNeue;**/
-  font: 400 60px/1.3 'Abril Fatface', Georgia, serif;
+  font-family: 'Abril Fatface', Georgia, serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  font: 400 60px/1.3 'Abril Fatface', Georgia, serif;
+  font-family: 'Abril Fatface', Georgia, serif;
   a {
     color: inherit;
   }
@@ -232,7 +232,7 @@ th, td{
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font: 400 17px/1.6 'Average', Garamond, Georgia, serif;
+  font-family: 'Average', Garamond, Georgia, serif;
   font-size: 18px;
 
   @include mobile {
