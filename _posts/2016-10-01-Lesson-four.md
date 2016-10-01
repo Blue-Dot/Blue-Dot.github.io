@@ -41,7 +41,7 @@ Note. As a lesson was missed out, this was completed for homework</td>
     <td>What did I do? What changes were made?</td>
   </tr>
   <tr>
-    <td>My 'sticky footer had an issue. The bottom of the footer was about 40px of the bottom of the screen, leaving just background underneath. Despite turning ‘stickiness' (fixed) off, the bottom gap was still there. After much fiddling around, I finally found the answer. In my footer, the text and the github icon have different classes: ‘footerleft’ and ‘footerright’. Footer left, with the ‘Made by someone called Max’, had a height of 80px. I got rid of it, and bingo! My footer was fixed. I also fiddled around with the fonts using: ‘https://designshack.net/articles/typography/10-more-great-google-font-combinations-you-can-copy’</td>
+    <td>My 'sticky footer had an issue. The bottom of the footer was about 40px of the bottom of the screen, leaving just background underneath. Despite turning ‘stickiness' (fixed) off, the bottom gap was still there. After much fiddling around, I finally found the answer. In my footer, the text and the github icon have different classes: ‘footerleft’ and ‘footerright’. Footer left, with the ‘Made by someone called Max’, had a height of 80px. I got rid of it, and bingo! My footer was fixed. I also fiddled around with the fonts using: ‘https://designshack.net/articles/typography/10-more-great-google-font-combinations-you-can-copy’.</td>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
