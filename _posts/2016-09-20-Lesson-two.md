@@ -41,6 +41,7 @@ published: true
   </tr>
   <tr>
     <td>I changed multiple (things mainly to do with styling) which were not pre-programmed into the Jekyll template, including:
+
 Changing the navbar to blue
 Deleting the separating line between navbar and body
 Making a 'sticky' footer
