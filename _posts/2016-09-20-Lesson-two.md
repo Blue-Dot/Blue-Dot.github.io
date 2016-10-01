@@ -57,7 +57,7 @@ Formating that</td>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Last lesson, I mentioned that helping others limited my learning. This lesson, the same thing limited me again, but less so this time. This lesson, the main thing that limited me this lesson was my unreasonable aims. For example, it took a lot of Google searches and time to find out what the separating between the navbar and body was. Despite this, it was still a good lesson.  </td>
+    <td>Last lesson, I mentioned that helping others limited my learning. This lesson, the same thing limited me again, but less so this time. This lesson, the main thing that limited me this lesson was my unreasonable aims. For example, it took a lot of Google searches and time to find out what the separating line between the navbar and body was. Despite this, it was still a good lesson.  </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
