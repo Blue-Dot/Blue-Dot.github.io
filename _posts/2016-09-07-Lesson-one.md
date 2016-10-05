@@ -1,5 +1,5 @@
 ---
-title: Lesson one
+title: Lesson One
 layout: post
 author: maximillian.iyengar
 permalink: /lesson-one/
