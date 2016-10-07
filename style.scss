@@ -35,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /**font-family: $helveticaNeue;**/f
+  /**font-family: $helveticaNeue;**/
   font-family: 'Abril Fatface', Georgia, serif;
   color: $darkerGray;
   font-weight: bold;
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 
   @include mobile {
-    line-height: 1.4f;
+    line-height: 1.4;
   }
 }
 
