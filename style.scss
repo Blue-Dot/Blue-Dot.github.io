@@ -30,8 +30,12 @@ body {
   width: 100%;
 }
 
+.posts {
+  padding-top: 100px;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  /**font-family: $helveticaNeue;**/
+  /**font-family: $helveticaNeue;**/f
   font-family: 'Abril Fatface', Georgia, serif;
   color: $darkerGray;
   font-weight: bold;
@@ -41,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.4f;
   }
 }
 
@@ -172,6 +176,10 @@ th, td{
 .wrapper-masthead {
   margin-bottom: 50px;
   background-color: #3498db;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
 }
 
 .masthead {
