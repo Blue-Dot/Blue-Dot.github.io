@@ -40,7 +40,7 @@ published: true
     <td>I learnt very well this lesson because of my focus. I dedicated different times to help, and different times to code. Also, I did not ask for much help from the teacher, which I think is also a good thing.</td>
   </tr>
   <tr>
-    <td>Not much limited my learning this week. I think that the internet helped a lot in working on my blog, but when things did break, and there were no other answers, My own common sense let me down. My instant reaction would be to look at inspect element, which often did not have the answer I was looking for. Next week, by continuing on donating time to certain things, and looking directly at the code, or using common sense, I would be able to inprove my work.</td>
+    <td>Not much limited my learning this week. I think that the internet helped a lot in working on my blog, but when things did break, and there were no other answers, My own common sense let me down. My instant reaction would be to look at inspect element, which often did not have the answer I was looking for. Next week, by continuing on donating time to certain things, and looking directly at the code, or using common sense, I would be able to improve my work.</td>
   </tr>
 </table>
 
