@@ -31,7 +31,8 @@ published: true
 
 <table>
   <tr>
-    <td>This lesson, we were going to start using spreadsheets. We had to create a customer receipt, and it had to do as many calculations as possible. I learnt about the =SUM(), =VLOOKUP(), +, -, *, / and =if(x, x, if()) functions. I successfully created a customer receipt, and even had enough time to format it. I changed the font, margins, colours and spacing. Afterwards, for homework, I pushed myself by creating a company receipt, taking things into account like costs, and income. My spreadsheet can be found at https://docs.google.com/spreadsheets/d/1wUKhHruzBN7f4djRke0gPQcLy_0XdAU3B7Dk2CKLrjQ/edit?usp=sharing</td>
+    <td>This lesson, we were going to start using spreadsheets. We had to create a customer receipt, and it had to do as many calculations as possible. I learnt about the =SUM(), =VLOOKUP(), +, -, *, / and =if(x, x, if()) functions. I successfully created a customer receipt, and even had enough time to format it. I changed the font, margins, colours and spacing. 
+Afterwards, for homework, I pushed myself by creating a company receipt, taking things into account like costs, and income. My spreadsheet can be found <a href="https://docs.google.com/spreadsheets/d/1wUKhHruzBN7f4djRke0gPQcLy_0XdAU3B7Dk2CKLrjQ/edit?usp=sharing">here</a></td>
   </tr>
   <tr>
     <td>- - -</td>
