@@ -50,3 +50,5 @@ Overall, this was a good and effective lesson. However, I could still work on my
 My Spreadsheet:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1wUKhHruzBN7f4djRke0gPQcLy_0XdAU3B7Dk2CKLrjQ/pubhtml?widget=true&amp;headers=false"></iframe>
+
+My spreadsheet can also be found <a href="https://docs.google.com/spreadsheets/d/1wUKhHruzBN7f4djRke0gPQcLy_0XdAU3B7Dk2CKLrjQ/edit?usp=sharing">here</a>
