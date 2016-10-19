@@ -20,7 +20,7 @@ This lesson, I worked continued to work on my spreadsheet. I:
 
 Created **multiple sheets**, such as 'Costs', ‘Profit and Loss’ and ‘Employees’ among others.
 
-Entered **data into those sheets**, using formulas wherever possible. An example of this is where the 'Costs' sheet required to take into account the cost of the employees. I referenced it by using `=Employees!F31`.
+Entered **data into those sheets**, using formulas wherever possible. An example of this is where the 'Costs' sheet required to take into account the cost of the employees. I referenced it by using =Employees!F31.
 
 Mixed up the **formating**. An example of this is changing the header to be taller and to have a solid block colour.
 
@@ -32,11 +32,11 @@ As I had surplus time, I decided to **work on my blog**. I abandoned the templat
 
 Despite **abandoning the template**, I still continued to use Google Docs. My reasoning is simple: if something were to go wrong with Github, I would still have a backup of all my blog posts. On the other hand, the convenience of markdown tempted me to finish my post in markdown, on Github. Gabriel - the tool which allows me to convert a Google Doc to markdown - is not compatible with certain things, such as lists, which I can now use, through **editing in markdown.**
 
-I also made a minor change to my header: the `.site-description` is now black, not grey.
+I also made a minor change to my header: the .site-description is now black, not grey.
 ---
 What effective strategies were used?
 
-This lesson, I think I worked very effectively. I established a **good ratio of time between helping others, and working independently**. My focus was again very good, evidence for this is the amount of work accomplished in the lesson. As a large element of the lesson was largely dependent on **active listening**. I feel I didn't start the lesson with great skill in that area, but as the lesson continued, I feel I developed well. On top of this, my use of hotkeys, like `RETURN` and `TAB`, were good. My **resourcefulness also flourished**; I didn’t use Google much at all. The Sheets Help section provided me with resources, which were faster and more reliable than other sources.
+This lesson, I think I worked very effectively. I established a **good ratio of time between helping others, and working independently**. My focus was again very good, evidence for this is the amount of work accomplished in the lesson. As a large element of the lesson was largely dependent on **active listening**. I feel I didn't start the lesson with great skill in that area, but as the lesson continued, I feel I developed well. On top of this, my use of hotkeys, like RETURN and TAB, were good. My **resourcefulness also flourished**; I didn’t use Google much at all. The Sheets Help section provided me with resources, which were faster and more reliable than other sources.
 ---
 What could I have improved?
 
