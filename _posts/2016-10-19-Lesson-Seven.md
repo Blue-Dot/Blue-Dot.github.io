@@ -6,7 +6,7 @@ permalink: /lesson-seven/
 source-id: 1_vnVF1cI8msjmeTFa4ibQv6FGD6mZDLmWSa64lJZ1Xg
 published: true
 ---
-##Multiple Sheets##
+<h2>Multiple Sheets</h2>
 
 Starting Point - With a working, formatted spreadsheet, with multiple, not linked pages
 
@@ -15,7 +15,7 @@ Target - To have multiple sheets, interlinked, allowing my 'company' to enter da
 Completed? - Yes, I believe so. I have many sheets, and some formulas interlink them.
 - - -
 
-###What did I do this lesson?###
+<h3>What did I do this lesson?</h3>
 
 This lesson, I worked continued to work on my spreadsheet. I:
 
@@ -36,16 +36,16 @@ Despite **abandoning the template**, I still continued to use Google Docs. My re
 I also made a minor change to my header: the .site-description is now black, not grey.
 - - -
 
-###What effective strategies were used?###
+<h3>What effective strategies were used?</h3>
 
 This lesson, I think I worked very effectively. I established a **good ratio of time between helping others, and working independently**. My focus was again very good, evidence for this is the amount of work accomplished in the lesson. As a large element of the lesson was largely dependent on **active listening**. I feel I didn't start the lesson with great skill in that area, but as the lesson continued, I feel I developed well. On top of this, my use of hotkeys, like RETURN and TAB, were good. My **resourcefulness also flourished**; I didn’t use Google much at all. The Sheets Help section provided me with resources, which were faster and more reliable than other sources.
 - - -
 
-###What could I have improved?###
+<h3>What could I have improved?</h3>
 
 Overall, this was a good and effective lesson. However, I could still work on my **perseverance skills**. Sheets is a complex and advanced program (when used properly) and I struggled to format my work nicely. However, when I got home, I **dedicated myself to the task**, and finally finished with the rewarding pleasure of something that I am proud of. Another skill which I could have improved would be my **making links** skill. I could have potentially found a similarity between what I was doing, and Python, making my work more efficient. However, overall this was a very **productive lesson**.
 - - -
 
-###My Spreadsheet:###
+My Spreadsheet:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1wUKhHruzBN7f4djRke0gPQcLy_0XdAU3B7Dk2CKLrjQ/pubhtml?widget=true&amp;headers=false"></iframe>
