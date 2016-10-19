@@ -6,8 +6,8 @@ permalink: /lesson-seven/
 source-id: 1_vnVF1cI8msjmeTFa4ibQv6FGD6mZDLmWSa64lJZ1Xg
 published: true
 ---
+
 Multiple Sheets
-***
 
 Starting Point - With a working, formatted spreadsheet, with multiple, not linked pages
 
