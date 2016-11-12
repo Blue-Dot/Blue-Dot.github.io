@@ -22,7 +22,7 @@ What did I do this lesson?
 
 To start of with, after submitting our blogs on Google Classroom, we got our marks back. I got this:
 
-<img src="../../_images/Lesson_Nine/Google_Classroom_Score.png" alt="9 out of 9" style="width:304px;height:228px;">
+<img src="/_images/Lesson_Nine/Google_Classroom_Score.png" alt="9 out of 9" style="width:304px;height:228px;">
 
 I am very proud of this score. Despite the minimalist design, this blog took a lot of effort to make. This is because of my limited website building knowledge. But after 8 weeks, my hard work finally payed of! After receiving our score, we were asked to improve our work. With full marks, there wasn't much I could do. The two things I could have done to improve my blog would be to add relevant images, and to make my website more mobile friendly, the first of which I have already completed! However, instead of working on my own blog, I dedicated these 15-20 minutes to helping others fix problems in their blog. This may have been a poor decision, as it didn’t help me much. Next time, maybe I should focus on my own work, by splitting the time between helping others and doing private work.
 
