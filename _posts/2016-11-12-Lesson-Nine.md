@@ -22,15 +22,15 @@ What did I do this lesson?
 
 To start of with, after submitting our blogs on Google Classroom, we got our marks back. I got this:
 
-<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/Google_Classroom_Score.png" alt="9 out of 9" style="width:304px;height:228px;">
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/Google_Classroom_Score.png" alt="9 out of 9">
 
 I am very proud of this score. Despite the minimalist design, this blog took a lot of effort to make. This is because of my limited website building knowledge. But after 8 weeks, my hard work finally payed of! After receiving our score, we were asked to improve our work. With full marks, there wasn't much I could do. The two things I could have done to improve my blog would be to add relevant images, and to make my website more mobile friendly, the first of which I have already completed! However, instead of working on my own blog, I dedicated these 15-20 minutes to helping others fix problems in their blog. This may have been a poor decision, as it didn’t help me much. Next time, maybe I should focus on my own work, by splitting the time between helping others and doing private work.
 
-/DL login
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/DL_Login.png" alt="9 out of 9">
 
 Next, after the feedback, we were asked to sign onto the <a href="http://my.dynamic-learning.co.uk">Dynamic Learning Website</a> which we used last year. After forgetting our school's center ID (Ugh) and a remember your password resend link, I was on. Maybe next time I could remember the center ID?
 
-/DL UI
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/DL_UI.png" alt="9 out of 9">
 
 Then, aI navigated the site, and using my past knowledge navigating other websites, I read the two text pages in our assignment. After I had finished I read through them, ensuring I had really *read* them. This was a good idea and I am very glad I did so. It helped a lot in homework. I think that I should do this next lesson too.
 
