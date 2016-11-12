@@ -30,7 +30,7 @@ I am very proud of this score. Despite the minimalist design, this blog took a l
 
 Next, after the feedback, we were asked to sign onto the <a href="http://my.dynamic-learning.co.uk">Dynamic Learning Website</a> which we used last year. After forgetting our school's center ID (Ugh) and a remember your password resend link, I was on. Maybe next time I could remember the center ID?
 
-<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/DL_UI.png" alt="9 out of 9">
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/DL-UI.png" alt="9 out of 9">
 
 Then, aI navigated the site, and using my past knowledge navigating other websites, I read the two text pages in our assignment. After I had finished I read through them, ensuring I had really *read* them. This was a good idea and I am very glad I did so. It helped a lot in homework. I think that I should do this next lesson too.
 
@@ -42,13 +42,13 @@ For homework, we were asked to, "research the use of cyphers through time and pr
 
 Firstly, being the banana I am, I started by creating my title slide. This should have been the shortest slide to create, surely? No. I started by entering my title, Cyphers and their similarities, but then I discovered this new button called 'Explore'.
 
-/Explore
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/Slides_Explore.png" alt="9 out of 9">
 
 This brought up a pop up menu with loads of different layout and styling options. I presume that this is meant to make work more productive and efficient. However, I always insist on not using templates/themes and producing all the formating myself. It makes the end outcome more rewarding. So, instead of using one of the inbuilt themes, I used these as inspiration for my design. This took a lot longer than expected: 30 minutes to create a simple design. And an extra 10 minutes to chose the colours for it. 40 minutes is way too long to spend designing a title page! I need to speed up my formatting. One method I could use to do this would be the Type, Edit, Format method. This would enable me to get all the content out of the way and enable me to format more effectively. Also, the end result would be better, as the formating would be tailored to the content, instead of some generic format. Hopefully I will do this next time.
 
 The same story goes on and on for multiple slides. Apparently I don't learn from my mistakes. After a few slides, I realise my mistake finally. I start using the type, edit, format (or content, content, format, format) method, and my productivity rises (yay!)
 
-/Productivity
+<img src="https://Blue-Dot.github.io/assets/Lesson_Nine/Expo_Graph.png" alt="9 out of 9">
 
 And after lots of work, research and dedication, I finally finish my presentation. I don't know if it is because I am tired, but I think it doesn't look too bad. It should have taken me a lot less time, but I got there in the end. It was a half hour project, but it turned into a three hour project. I should have focused on the content rather than the looks, but it still worked out. 
 
