@@ -39,6 +39,26 @@ function reset(){
   update()
 }
 
+function settings(){
+  document.getElementById("infoc").style.visibility = "hidden"
+
+  if (document.getElementById("settingsc").style.visibility == "visible"){
+    document.getElementById("settingsc").style.visibility = "hidden"
+  } else {
+    document.getElementById("settingsc").style.visibility = "visible"
+  }
+}
+
+function info(){
+  document.getElementById("settingsc").style.visibility = "hidden"
+
+  if (document.getElementById("infoc").style.visibility == "visible"){
+    document.getElementById("infoc").style.visibility = "hidden"
+  } else {
+    document.getElementById("infoc").style.visibility = "visible"
+  }
+}
+
 window.onload = function(){
  update();
 }
