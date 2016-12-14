@@ -36,6 +36,14 @@ button {
   padding: 30px;
 }
 
+#settings, #info {
+  padding: 50px;
+}
+
+#settingsc, #infoc {
+  visibility: hidden;
+}
+
 body {
   font-family: 'Reem Kufi', sans-serif;
   text-align: center;
