@@ -1,10 +1,8 @@
-localStorage.breakTime = "0"
-localStorage.workTime = "0"
+if (localStorage.length == 0){
+  localStorage.breakTime = "0"
+  localStorage.workTime = "0"
+}
 var intervalId = 0
-
-/*function readcookie(query){
-  return parseInt((document.cookie.match('(^|; )' + query + '=([^;]*)')||0).slice(-1));
-}*/
 
 function update(){
   document.getElementById("break_time").innerHTML = localStorage.breakTime
@@ -41,19 +39,6 @@ function reset(){
   update()
 }
 
-/*function upload(){
-  document.cookie = "work=" + work_time +"; max-age=" + 60*60*24*30 + "; path=/;"
-  document.cookie = "break=" + break_time +"; max-age=" + 60*60*24*30 + "; path=/;"
-}
-
-
-function download(){
-  work_time = readcookie('work');
-  break_time = readcookie('break');
-  document.getElementById("break_time").innerHTML = break_time;
-  document.getElementById("work_time").innerHTML = work_time;
-}
-*/
 window.onload = function(){
  update();
 }
