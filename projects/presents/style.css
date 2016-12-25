@@ -9,3 +9,7 @@ img{
   background-position: center;
   background-color: black;
 }
+
+.wrapping{
+ position: absolute;
+}
