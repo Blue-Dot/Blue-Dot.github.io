@@ -6,9 +6,12 @@
 	padding-left: 10%;
 	padding-right: 10%;
 	text-align: left;
-	color: pink;
 }
 
-body{
-	color: pink;
+.SplashTitle{
+	width: 100%;
+}
+
+.SplashSubtitle{
+	width: 100%
 }
