@@ -53,9 +53,9 @@ Over the holidays, we were instructed to spend 2 hours working on our repl.it qu
 
 Buzzfeed quiz:
 
-<a href="[https://repl.it/HqWC/10](https://repl.it/HqWC/10)”>  [https://repl.it/HqWC/10](https://repl.it/HqWC/10) </a>
+[https://repl.it/HqWC/10](https://repl.it/HqWC/10)
 
 New Website:
 
-<a href="blue-dot.github.io/web/> blue-dot.github.io/web/</a>
+[blue-dot.github.io/web/](https://repl.it/HqWC/10)
 
