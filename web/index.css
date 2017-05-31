@@ -1,0 +1,92 @@
+/*GENERAL*/
+
+body{
+	margin: 0;
+	background-image: url("http://www.publicdomainpictures.net/pictures/130000/velka/blue-point-background.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-x: center; 
+}
+
+a{
+	color: #FFC125;
+	text-decoration: none
+}
+
+a:hover{
+	color: #FFF;
+}
+
+/*HEADER*/
+
+a.HeaderButton{
+	width: 130px;
+	padding: 10px;
+	margin: 15px;
+	background-color: #0c75a7;
+	color: #FFF;
+	font-size: 90%;
+}
+
+#Header{
+	margin: 0;
+	background-color: rgba(12, 117, 167, 0.5);
+}
+
+/*MAIN CONTENT*/
+
+.SplashTitle{
+	width: 4.8em;
+	margin-top: 400px;
+	height: 100px;
+	font-size: 350%;
+	background-color: rgba(12, 117, 167, 0.5);
+}
+
+.SplashSubtitle{
+	width: 20em;
+	margin-top: 15px;
+	height: 40px;
+	font-size: 125%;
+	background-color: rgba(12, 117, 167, 0.5);
+}
+
+.Title{
+	font-size: 350%;
+	font-weight: bold;
+}
+
+.Heading{
+	font-size: 110%;
+	font-weight: bolder;
+}
+
+.SmallHeading{
+	font-size: 95%;
+}
+
+.Body{
+	font-size: 12pt;
+}
+
+.Block {
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  
+	background-color: #0c75a7;
+	text-align: center;
+	color: #FFF;
+}
+
+.RightBlock{
+	width: 35%;
+	margin-top: 30px;
+	height: 100%;
+	padding: 120px;
+	padding-left: 55%;
+	padding-right: 10%;
+	text-align: left;
+}
