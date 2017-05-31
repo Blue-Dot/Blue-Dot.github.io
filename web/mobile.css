@@ -1,0 +1,14 @@
+.RightBlock{
+	width: 80%;
+	margin-top: 30px;
+	height: 100%;
+	padding: 80px;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: left;
+	color: pink;
+}
+
+body{
+	color: pink;
+}
