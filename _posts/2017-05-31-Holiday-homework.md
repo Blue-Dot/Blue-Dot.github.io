@@ -57,5 +57,5 @@ Buzzfeed quiz:
 
 New Website:
 
-[blue-dot.github.io/web/](https://repl.it/HqWC/10)
+[https://blue-dot.github.io/web/](http://blue-dot.github.io/web/)
 
