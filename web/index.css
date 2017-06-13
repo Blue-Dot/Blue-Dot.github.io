@@ -1,11 +1,12 @@
+
 /*GENERAL*/
 
 body{
 	margin: 0;
-	background-image: url("http://www.publicdomainpictures.net/pictures/130000/velka/blue-point-background.jpg");
+	background-image: url("http://4.bp.blogspot.com/-YOIwB0FS5LQ/UR2FwBWPChI/AAAAAAAAAuw/ra3pY99P77s/s1600/seashore_public_domain_pictures+(1).JPG");
 	background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position-x: center; 
+  background-position-x: center;
 }
 
 a{
@@ -23,42 +24,31 @@ a.HeaderButton{
 	width: 130px;
 	padding: 10px;
 	margin: 15px;
-	background-color: #0c75a7;
-	color: #FFF;
 	font-size: 90%;
+	text-align: center;
 }
 
 #Header{
 	margin: 0;
 	background-color: rgba(12, 117, 167, 0.5);
+	position: fixed;
+	top: 0;
+	width: 100%;
+
+	display: flex;
+  justify-content: center;
 }
 
 /*MAIN CONTENT*/
 
-.SplashTitle{
-	width: 4.8em;
-	margin-top: 400px;
-	height: 100px;
-	font-size: 350%;
-	background-color: rgba(12, 117, 167, 0.5);
-}
-
-.SplashSubtitle{
-	width: 20em;
-	margin-top: 15px;
-	height: 40px;
-	font-size: 125%;
-	background-color: rgba(12, 117, 167, 0.5);
-}
-
 .Title{
 	font-size: 350%;
-	font-weight: bold;
+	font-family: 'Playfair Display', Serif;
 }
 
 .Heading{
 	font-size: 110%;
-	font-weight: bolder;
+	font-family: 'Lato' , Sans-Serif;
 }
 
 .SmallHeading{
@@ -67,26 +57,80 @@ a.HeaderButton{
 
 .Body{
 	font-size: 12pt;
+	font-family: 'Roboto', Sans-Serif;
 }
 
+/*BLOCKS*/
+
 .Block {
-	margin-left: auto;
-	margin-right: auto;
-	display: flex;
-  align-items: center;
-  justify-content: center;
-  
 	background-color: #0c75a7;
-	text-align: center;
 	color: #FFF;
+	margin-top: 15px;
+  overflow: auto;
+}
+
+.LeftBlock{
+	float: left;
+	width: 50%;
+}
+
+.LeftIndent{
+  margin: 100px;
+  margin-right: 25px;
+  test-align: right;
+  overflow: auto;
+}
+
+.LeftImage{
+  float: right;
 }
 
 .RightBlock{
-	width: 35%;
-	margin-top: 30px;
-	height: 100%;
-	padding: 120px;
-	padding-left: 55%;
-	padding-right: 10%;
-	text-align: left;
+	float: right;
+	width: 50%;
+}
+
+.RightIndent{
+  margin: 100px;
+  margin-left: 25px;
+  overflow: auto;
+}
+
+.RightImage{
+  float: left;
+}
+
+.MainBlock{
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+}
+
+.MainIndent{
+  margin: 100px;
+}
+
+/*HOME PAGE/*/
+
+.SplashTitle{
+	width: 5.1em;
+	margin-top: 500px;
+	padding: 10px;
+	font-size: 400%;
+	text-align: center;
+
+	margin-left: auto;
+	margin-right: auto;
+  justify-content: center;
+}
+
+.SplashSubtitle{
+	width: 20em;
+	padding: 10px;
+	font-size: 150%;
+	text-align: center;
+
+	margin-left: auto;
+	margin-right: auto;
+  justify-content: center;
 }
