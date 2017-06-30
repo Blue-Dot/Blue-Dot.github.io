@@ -10,7 +10,8 @@
     <p>My first paragraph.</p>
     
     <?
-      $myfile = fopen("testfile.txt", "w")
+      //$myfile = fopen("testfile.txt", "w")
+      echo "hello";
     ?>
 
   </body>
